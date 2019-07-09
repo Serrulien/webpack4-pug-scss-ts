@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "homepage": "https://github.com/serrulien/webpack4-pug-scss-ts",
-  "description": "",
+  "description": "Boilterplate for a multiple page website using webpack4, pug template engine, scss and typescript",
   "repository": "github:serrulien/webpack4-pug-scss-ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
