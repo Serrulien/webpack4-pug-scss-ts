@@ -42,3 +42,7 @@ new HtmlWebpackPlugin({
 
 ## I want a page to be static (no scripts)
 In the corresponding `HtmlWebpackPlugin`, set `inject` to false.
+
+## .ts files are being parsed but they are not imported in the webpack bundle
+This is the default behavior of `ts-loader`. It respects the `include`, `files`, and `exclude` options in your `tsconfig.json`. You can force the loader to parse only imported files by setting `onlyCompileBundledFiles` to false.  
+More on https://github.com/TypeStrong/ts-loader#onlycompilebundledfiles-boolean-defaultfalse.
