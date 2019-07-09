@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{DPpM:function(n,i,o){"use strict";o.r(i);o("OMi8"),o("lE3a");const t=document.getElementById("container");t&&(t.innerHTML="<ul><li>product 1</li><li>product 2</li></ul>")},OMi8:function(n,i,o){},lE3a:function(n,i,o){}},[["DPpM",0]]]);
+//# sourceMappingURL=products.4536e145eaca69aa7c62.js.map

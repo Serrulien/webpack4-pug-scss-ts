@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{OMi8:function(t,n,e){},f2KU:function(t,n,e){"use strict";e.r(n);e("OMi8"),e("lE3a");console.log("hello"),console.log((new class{constructor(){this.content="this is a content"}getContent(){return this.content}}).getContent()),document.getElementsByTagName("h1")[0].textContent="this text is set on client runtime"},lE3a:function(t,n,e){}},[["f2KU",0]]]);
+//# sourceMappingURL=homepage.0f020657c04a975d7268.js.map
