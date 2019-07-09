@@ -1,9 +1,11 @@
 # Boilerplate for webpack4 + pug.js + scss + typescript
-This configuration is easy to understand and to modify. Fitted to build multiple html pages website thanks to :
+**Compile your pug templates into html files at build time. Manage your scripts and assets with webpack.** This configuration is easy to understand and to modify. Fitted to build multiple html pages application (aka MPA) thanks to :
 - webpack v4
 - pug.js (templating engine)
 - scss (css preprocessor)
 - typescript
+
+You will compile your templates into ressources. **Pug templates are compiled at build-time.** But you may alter the final html file as usual on the client side.
 
 ## NPM scripts
 - `npm run start` - run the dev server on localhost:8080
